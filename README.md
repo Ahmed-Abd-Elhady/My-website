@@ -1,7 +1,7 @@
 # My-website
 This is my website but i'm wroking on for now 
 and its not boot strap don't work on phone or any other monitor not 1920x1080px
-Public Link : https://ogljrbt4ghf4fjkpprer2q.on.drv.tw/www.ahmed-gharib/About_My_Self/
+Public Link : [FOR NOW THE LINK HAVE BUGS SORRY !]
 There are some bugs on colors for some reson 
 
 ![Alt text](https://cdn.discordapp.com/attachments/1116893606393937950/1180850812163989624/image.png?ex=657eec04&is=656c7704&hm=b328eac3252969fbf39b1dc34edc5a9bcb4bef0ed8e7a4add59b80595d693acc&)
